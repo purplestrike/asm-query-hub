@@ -2,7 +2,7 @@
 
 A unified web application for converting form inputs into search queries for multiple Attack Surface Management (ASM) platforms. Generate optimized queries for Shodan, Censys, and FOFA without requiring API keys or external vendor calls.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/purplestrike/ASM-Query-Hub)
+🌐 **[Live Demo](https://asm-query-hub.purplestrike.net/)** | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/purplestrike/ASM-Query-Hub)
 ![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-18.0-blue?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38bdf8?style=flat-square&logo=tailwind-css)
@@ -20,6 +20,12 @@ A unified web application for converting form inputs into search queries for mul
 - **No External Dependencies**: Pure local conversion, no API keys required
 - **Responsive Design**: Modern UI that works on desktop and mobile devices
 
+## 🌐 Live Demo
+
+**Try it now**: [https://asm-query-hub.purplestrike.net/](https://asm-query-hub.purplestrike.net/)
+
+The application is live and ready to use! No installation required.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -27,7 +33,7 @@ A unified web application for converting form inputs into search queries for mul
 - Node.js 18.0 or higher
 - npm or yarn package manager
 
-### Installation
+### Local Installation
 
 1. Clone the repository:
 ```bash
@@ -266,11 +272,16 @@ Each converter includes JSDoc comments explaining the field-to-engine mapping. M
 
 ## 🚢 Deployment
 
+This application is currently deployed and live at: **[https://asm-query-hub.purplestrike.net/](https://asm-query-hub.purplestrike.net/)**
+
 ### Vercel (Recommended)
+
+The application is deployed on Vercel with a custom domain. To deploy your own instance:
 
 1. Push your code to GitHub
 2. Import your repository in [Vercel](https://vercel.com)
 3. Vercel will automatically detect Next.js and deploy
+4. Configure your custom domain in Vercel project settings
 
 ### Other Platforms
 
@@ -348,7 +359,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For issues, questions, or contributions, please open an issue on the [GitHub repository](https://github.com/purplestrike/ASM-Query-Hub/issues).
+- **Live Application**: [https://asm-query-hub.purplestrike.net/](https://asm-query-hub.purplestrike.net/)
+- **GitHub Repository**: [https://github.com/purplestrike/ASM-Query-Hub](https://github.com/purplestrike/ASM-Query-Hub)
+- **Report Issues**: [Open an issue on GitHub](https://github.com/purplestrike/ASM-Query-Hub/issues)
 
 ---
 
